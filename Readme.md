@@ -13,6 +13,10 @@ Tento projekt je jednoduchá kalkulačka na výpočet matematických operácií.
 1. Naklonujte repozitár:
    ```bash
    git clone https://github.com/uzivatel/kalkulacka.git
+1. Naklonujte repozitár:
+    ```bash 
+   git clone https://github.com/vzorovy-uzivatel/python-vzorovy-projekt.git
+
 
 # Požiadavky
 pip install -r requirements.txt
