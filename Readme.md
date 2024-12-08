@@ -1,6 +1,13 @@
 # Názov projektu  
 
-Tento projekt je jednoduchá kalkulačka na výpočet matematických operácií.  
+Tento projekt je jednoduchá kalkulačka na výpočet matematických operácií.
+
+# Funkcie projektu
+
+- číta dáta zo súboru vo formáte csv
+- komunikuje s API na získanie externých údajov
+- generuje reporty a ukladá ich vo formáte csv
+- obsahuje príkladovú konfiguráciu a jednoduché logovanie
 
 ## Inštalácia  
 1. Naklonujte repozitár:
@@ -18,4 +25,4 @@ pip install -r requirements.txt
 # Licencia
 MIT licencia
 
-Tento súbor poskytuje základné informácie o projekte a umožňuje ľahké začatie práce s ním-
+Tento súbor poskytuje základné informácie o projekte a umožňuje ľahké začatie práce s ním.
