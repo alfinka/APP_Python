@@ -19,6 +19,9 @@ Tento projekt je jednoduchá kalkulačka na výpočet matematických operácií.
 
 
 # Požiadavky
+Pred použitím tohto projektu sa uistite, že máte nainštalované:  
+Python 3.8 alebo novší  
+Nainštalovaný nástroj pip  
 pip install -r requirements.txt
 
 # Použitie
