@@ -4,9 +4,9 @@ Tento projekt je jednoduchá kalkulačka na výpočet matematických operácií.
 
 # Funkcie projektu
 
-- číta dáta zo súboru vo formáte csv
+- číta dáta zo súboru vo formáte CSV
 - komunikuje s API na získanie externých údajov
-- generuje reporty a ukladá ich vo formáte csv
+- generuje reporty a ukladá ich vo formáte CSV
 - obsahuje príkladovú konfiguráciu a jednoduché logovanie
 
 ## Inštalácia  
